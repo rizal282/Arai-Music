@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763789154201",
+    "firebase_url": "https://arai-music.firebaseio.com",
+    "project_id": "arai-music",
+    "storage_bucket": "arai-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763789154201:android:2427454bfd6d66fecf2508",
+        "android_client_info": {
+          "package_name": "com.arai.araimusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763789154201-iq5i17jqjvgcutsabeqkhm9f0crkopdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arai.araimusic",
+            "certificate_hash": "6c970ea665795e575f18a41acee98e450b6061dc"
+          }
+        },
+        {
+          "client_id": "763789154201-mi6pfkmtki04qtequvdveak56j859fu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrJK2TYMPaNAh5tJkWq0bV4SUGkr_hFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763789154201-mi6pfkmtki04qtequvdveak56j859fu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
